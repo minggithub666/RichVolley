@@ -1,0 +1,1 @@
+    RichVolley包含了volley的常用封装，包括https工具类，自定义request，请求压缩等。
